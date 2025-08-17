@@ -8,6 +8,6 @@
 <a target="_blank" href="https://www.instagram.com/edanielito5/" style="display: inline-block;"><img src="GitHub/instagram.png" alt="Instagram" width="50" height="50" /></a>
 <a target="_blank" href="https://discordapp.com/users/darkconqueso" style="display: inline-block;"><img src="GitHub/discord.png" alt="Discord" width="50" height="50" /></a>
 <a href="mailto:danieltorres11007@gmail.com" target="_blank" style="display: inline-block;"><img src="GitHub/Gmail.png" alt="Gmail" width="50" height="50" /></a>
-<a target="_blank" href="" style="display: inline-block;"><img src="GitHub/linkedin.png" alt="Linkedin" width="50" height="50" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/edinson-daniel-torres-espinosa-8aa9b3297/" style="display: inline-block;"><img src="GitHub/linkedin.png" alt="Linkedin" width="50" height="50" /></a>
 <a target="_blank" href="https://x.com/edanielito51" style="display: inline-block;"><img src="GitHub/twitter.png" alt="Twitter" width="50" height="50" /></a>
 
